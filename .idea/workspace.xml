@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c131cc71-a7f1-4a0e-b29c-9124ddecec9a" name="Default Changelist" comment="first-commit" />
+    <list default="true" id="c131cc71-a7f1-4a0e-b29c-9124ddecec9a" name="Default Changelist" comment="first-commit">
+      <change afterPath="$PROJECT_DIR$/SpringCloud搭建Elk日志中心.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/../springcloud-erureka-server/target/" />
     <ignored path="$PROJECT_DIR$/../springcloud-producer/target/" />
@@ -22,7 +25,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringCloud搭建Elk日志中心.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-990" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -84,9 +95,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="266" />
-    <option name="y" value="262" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="542" />
+    <option name="y" value="68" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -138,6 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -242,15 +254,16 @@
       <workItem from="1556269486900" duration="3250000" />
       <workItem from="1556366362133" duration="2943000" />
       <workItem from="1556418890572" duration="11436000" />
-      <workItem from="1556434623203" duration="9090000" />
+      <workItem from="1556434623203" duration="10253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26983000" />
+    <option name="totallyTimeSpent" value="28146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.308311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -266,7 +279,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -497,6 +510,11 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud搭建Elk日志中心.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
       </provider>
     </entry>
   </component>
