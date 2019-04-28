@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-producer/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/../springcloud-producer/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-ELK.iml" filepath="$PROJECT_DIR$/SpringCloud-ELK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-producer/src/main/main.iml" filepath="$PROJECT_DIR$/../springcloud-producer/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" filepath="$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-kafka/springcloud-consumer-kafka.iml" filepath="$PROJECT_DIR$/springcloud-consumer-kafka/springcloud-consumer-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-erureka-server/springcloud-erureka-server.iml" filepath="$PROJECT_DIR$/springcloud-erureka-server/springcloud-erureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-producer/springcloud-producer.iml" filepath="$PROJECT_DIR$/springcloud-producer/springcloud-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-producer/src/test/test.iml" filepath="$PROJECT_DIR$/../springcloud-producer/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
